@@ -21,20 +21,22 @@ To develop an image classifier that can correctly predict whether a given image 
 ---
 
 ## 📂 Project Structure
-cat-dog-classifier/
-│
-├── notebooks/
-│ └── PRAICP-1011-Cats_and_dogs_classification.ipynb
-├── model/
-│ ├── cat_dog_classifier_model_11.keras
-├── requirements.txt
-├── README.md
-└── .gitignore
-
+```
+ cat-dog-classifier/
+  │
+  ├── notebooks/
+  │ └── PRAICP-1011-Cats_and_dogs_classification.ipynb
+  ├── model/
+  │ ├── cat_dog_classifier_model_11.keras
+  ├── requirements.txt
+  ├── README.md
+  └── .gitignore
+```
 
 ---
 
 ## ⚙️ How to Run
+```
 1️⃣ Clone the repository  
 
 git clone https://github.com/yourusername/cat-dog-classifier.git
@@ -45,6 +47,7 @@ pip install -r requirements.txt
 
 3️⃣ Open the notebook
 jupyter notebook notebooks/PRAICP-1011-Cats_and_dogs_classification.ipynb
+```
 
 ---
 
@@ -52,29 +55,33 @@ jupyter notebook notebooks/PRAICP-1011-Cats_and_dogs_classification.ipynb
 | ----------------------- | ----- |
 | **Training Accuracy**   | 98.4% |
 | **Validation Accuracy** | 96.7% |
+
 🧩 The model performs strongly with high validation accuracy and generalizes well due to data augmentation.
 
-🧠 Key Learnings
+## 🧠 Key Learnings
 
-Implemented a CNN from scratch using TensorFlow and Keras
+- Implemented a CNN from scratch using TensorFlow and Keras
 
-Enhanced model performance using data augmentation and dropout layers
+- Enhanced model performance using data augmentation and dropout layers
 
-Learned how to handle image data and prevent overfitting
+- Learned how to handle image data and prevent overfitting
 
-Gained experience in visualizing model training and evaluation results
+- Gained experience in visualizing model training and evaluation results
 
 
-🧾 Requirements
+## 🧾 Requirements
+```
 tensorflow
 keras
 numpy
 matplotlib
 jupyter
+```
 
+## 👤 Author  
+**Ameen Muhammad M S**  
 
-👤 Author
-Ameen Muhammad M S
-📧 ameenmuhammedkrk@gmail.com
-🔗 [LinkedIn](https://www.linkedin.com/in/ameen-mhd29)
-💻 [GitHub](https://github.com/Ameenmhd)
+📧 Email: ameenmuhammedkrk@gmail.com  
+🔗 LinkedIn: [https://www.linkedin.com/in/ameen-mhd29](https://www.linkedin.com/in/ameen-mhd29)  
+💻 GitHub: [https://github.com/Ameenmhd](https://github.com/Ameenmhd)
+
