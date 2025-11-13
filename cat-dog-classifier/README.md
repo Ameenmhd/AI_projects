@@ -48,7 +48,33 @@ jupyter notebook notebooks/PRAICP-1011-Cats_and_dogs_classification.ipynb
 
 ---
 
-### ✅ 3. Update placeholders
-Replace:
-- `yourusername` → your actual GitHub username  
-- `Your Name`, `youremail@gmail.com`, and LinkedIn link → your real info  
+| Metric                  | Score |
+| ----------------------- | ----- |
+| **Training Accuracy**   | 98.4% |
+| **Validation Accuracy** | 96.7% |
+🧩 The model performs strongly with high validation accuracy and generalizes well due to data augmentation.
+
+🧠 Key Learnings
+
+Implemented a CNN from scratch using TensorFlow and Keras
+
+Enhanced model performance using data augmentation and dropout layers
+
+Learned how to handle image data and prevent overfitting
+
+Gained experience in visualizing model training and evaluation results
+
+
+🧾 Requirements
+tensorflow
+keras
+numpy
+matplotlib
+jupyter
+
+
+👤 Author
+Ameen Muhammad M S
+📧 ameenmuhammedkrk@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/ameen-mhd29)
+💻 [GitHub](https://github.com/Ameenmhd)
